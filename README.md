@@ -1,8 +1,3 @@
-### SchoolConnect
-SchoolConnect, the platform that connects students across schools to achieve more together, is currently under development. You can find it through the URL http://schoolconnect.app/ upon its completion.
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
